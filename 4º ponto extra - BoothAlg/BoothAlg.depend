@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536893527 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\Árvores\boothalg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
